@@ -1,0 +1,6 @@
+Proxy는 대리인 이라는 뜻 (무언가 대신해서 처리)
+실제 Client는 Proxy로부터 결과를 받는다.
+Cache 기능으로 활용 가능
+OCP와 DIP를 따른다.
+
+Ex . HttpClient 통신 / Service등이 뭉쳐있을 때 method들의 시간 체크 or DB insert 등으로 활용가능하다
